@@ -1,8 +1,8 @@
 <section class="section3 section-home">
     <div class="uk-container uk-container-center">
-        <header class="panel-head">
-            <h2><a href="#">MAI VIỆT LAND</a></h2>
-            <p>CUNG CẤP GIẢI PHÁP BẤT ĐỘNG SẢN TOÀN DIỆN CHO KHÁCH HÀNG</p>
+        <header class="panel-head homes-tit-1">
+            <h2>SẢN PHẨM NỔI BẬT</h2>
+            <a href="">Xem thêm ></a>
         </header>
         <div class="panel-body">
             <div class="uk-slidenav-position slider" data-uk-slider="{autoplay: true, autoplayInterval: 1500}">

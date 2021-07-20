@@ -4,7 +4,7 @@
 			<div class="uk-flex uk-flex-middle uk-flex-space-between container">
 				<div class="logo" itemscope="" itemtype="http://schema.org/Hotel">
 					<a itemprop="url" href="https://duyvillas.com/" title="logo">
-						<img src="data/themes/epbT_logo-duyvillas.png" style="height: 80px;" alt="logo" itemprop="logo">
+						<img src="data/logo.png" style="height: 80px;" alt="logo" itemprop="logo">
 					</a>
 					<span class="uk-hidden">logo</span>
 				</div>

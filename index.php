@@ -23,7 +23,7 @@
 <!-- ================= js ================== --> 
 </head>
 <body>
-<?php include('iteam/header.php') ?>
+<?php include('header/header1.php') ?>
 
 <section id="body">
 	<?php include('iteam/slider.php') ?>

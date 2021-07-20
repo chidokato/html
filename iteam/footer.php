@@ -113,6 +113,7 @@
 <script src="frontend/plugins/lightslider-master/dist/js/lightslider.min.js"></script>
 <script src="frontend/library/js/library.js"></script>
 <script src="templates/acore/function.js" type="text/javascript"></script>
+<script src="frontend/mask/jquery.mask.min.js" type="text/javascript"></script>
 
 <div id="modal-cart" class="uk-modal">
 	<div class="uk-modal-dialog" style="width:768px;">

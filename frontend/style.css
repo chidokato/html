@@ -34,7 +34,7 @@
 
 	.hd-contact>li {
 		position: relative;
-		padding: 15px 25px;
+		padding: 7px 25px;
 	}
 	.hd-contact>li:nth-of-type(1)>span {
 		display: block;
@@ -55,7 +55,7 @@
 
 	.pc-header .upper {
 		position: relative;
-		padding: 15px 0;
+		/*padding: 15px 0;*/
 	}
 	.hd-search .form {
 		position: relative;
@@ -1427,10 +1427,11 @@
 	.main-slide {margin: 0}
 	.main-slide .uk-slidenav {
 		display: block;
-		width: 65px;
-		height: 65px;
-		line-height: 67px;
-		font-size: 24px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 15px;
+		border-radius: 50px;
 		background: rgba(0, 0, 0, .5);
 		color: #fff;
 		-webkit-transition: all .4s linear;

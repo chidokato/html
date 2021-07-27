@@ -1,6 +1,6 @@
 <section class="section2 bgf1f1f1">
 	<div class="home-title">
-		<span class="separator_wrapper">THIẾT KẾ NỘI THẤT PHONG CÁCH HIỆN ĐẠI</span>
+		<span class="separator_wrapper">THIẾT KẾ NỘI THẤT PHONG CÁCH HIỆN ĐẠI section2</span>
 		<div class="line"></div>
 	</div>
 	<div class="tab">

@@ -33,8 +33,8 @@
 .home-contact .note{ text-align: center; font-size: 1.2rem; color: #fff; margin-bottom: 20px}
 .home-contact input{ width: 50%; padding: 10px; border: 1px solid #ddd; border-radius: 5px; }
 .home-contact input[type='submit']{}
-.product .thumb{border: 2px #fff solid; box-shadow: 0 10px 15px 0;}
-.product .infor{padding-top: 20px; text-align: center;}
+.product .thumb{border: 2px #fff solid; box-shadow: 0 3px 7px 0;}
+.product .infor{padding-top: 10px; text-align: center;}
 .product .infor a {color: #905919;text-decoration: none;cursor: pointer;font-size: 1.2rem;}
 .product{ margin-bottom: 20px !important }
 .product .img-cover img{height: 185px; width: 100%; object-fit: cover;}

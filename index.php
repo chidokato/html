@@ -23,17 +23,10 @@
 <!-- ================= js ================== --> 
 </head>
 <body>
-<?php include('header/header1.php') ?>
-<hr>
 <?php include('header/header.php') ?>
-
 <section id="body">
 	<?php include('iteam/slider.php') ?>
 	<div id="homepage" class="page-body">
-		<?php include('section/section1.php') ?>
-		<?php include('section/section2.php') ?>
-		<?php include('section/section3.php') ?>
-		<?php include('section/section4.php') ?>
 		<?php include('section/section5.php') ?>
 		<?php include('section/section6.php') ?>
 	</div>

@@ -102,6 +102,18 @@
 	</a>
 </div>
 
+<div id="offcanvas" class="uk-offcanvas offcanvas">
+	<div class="uk-offcanvas-bar">
+		<form class="uk-search" action="" data-uk-search="">
+		    <input class="uk-search-field" type="search" name="keyword" placeholder="Tìm kiếm...">
+        </form>
+		<ul class="l1 uk-nav uk-nav-offcanvas uk-nav uk-nav-parent-icon" data-uk-nav>
+			<li><a href=".">Trang chủ</a></li>
+			<li><a href="dat-nen">Đất Nền</a></li>
+		</ul>
+	</div>
+</div><!-- #offcanvas -->	
+
 <script src="frontend/function.js"></script>
 
 <script src="frontend/uikit/js/components/slideshow.min.js"></script>

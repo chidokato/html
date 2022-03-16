@@ -48,20 +48,19 @@
 											<a class="image img-cover" href="uploads/images/141288/images/tu-bep-cong-nghiep-glee-gtb19-1.jpg" title="/uploads/images/141288/images/tu-bep-cong-nghiep-glee-gtb19-1.jpg" data-uk-lightbox="{group:'gallerys'}">
 												<img src="uploads/images/141288/images/tu-bep-cong-nghiep-glee-gtb19-1.jpg" />
 											</a>
-										 </li>
-										 									 									 
+										</li>
 										<li data-thumb="/uploads/.thumbs/images/141288/images/tu-bep-cong-nghiep-glee-gtb19-2.jpg"> 
 											<a class="image img-cover" href="uploads/images/141288/images/tu-bep-cong-nghiep-glee-gtb19-2.jpg" title="" data-uk-lightbox="{group:'gallerys'}">
 												<img src="uploads/images/141288/images/tu-bep-cong-nghiep-glee-gtb19-2.jpg" />
 											</a>
-										 </li>
+										</li>
 										  
 										<li data-thumb="/uploads/.thumbs/images/141288/images/glee3.jpg"> 
 											<a class="image img-cover" href="uploads/images/141288/images/glee3.jpg" title="" data-uk-lightbox="{group:'gallerys'}">
 												<img src="uploads/images/141288/images/glee3.jpg" />
 											</a>
-										 </li>
-										 								</ul>
+										</li>
+	 								</ul>
 								</div>
 							</div>
 						</div>
